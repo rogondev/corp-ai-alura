@@ -1,0 +1,14 @@
+{
+  "Recursos Humanos": {
+    "email": "rh@corptech.com",
+    "responsabilidade": "Férias, benefícios, onboarding e políticas de pessoas"
+  },
+  "Financeiro": {
+    "email": "financeiro@corptech.com",
+    "responsabilidade": "Reembolsos, despesas e pagamentos"
+  },
+  "TI": {
+    "email": "ti@corptech.com",
+    "responsabilidade": "Acessos, equipamentos e suporte técnico"
+  }
+}
