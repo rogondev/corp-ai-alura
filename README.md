@@ -152,11 +152,10 @@ https://corp-ai-alura-jx5dzr9m3pboncsezezcwl.streamlit.app/
 
 ## 📸 Demonstração
 
-Adicione abaixo uma captura de tela da aplicação executando em nuvem.
+<img width="1364" height="719" alt="1 - Férias" src="https://github.com/user-attachments/assets/0590dbb1-01fa-4a63-bfb2-51e20781aec5" />
 
-```markdown
-![Demonstração do CorpAI](images/demo.png)
-```
+
+
 
 ---
 
